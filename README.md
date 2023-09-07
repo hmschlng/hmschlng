@@ -2,18 +2,6 @@
 
 <br/>
 
-- 1
-
-- 3
-
-- 1
-
-- 3
-
-- 1
-
-- 3
-
 <!--
 **hmschlng/hmschlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
